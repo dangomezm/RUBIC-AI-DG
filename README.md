@@ -37,10 +37,11 @@ Before you begin, make sure the following are installed on your system:
   ```
 - **Python 3.11**
 	which can be download is not native supported in some operative system version, in those cases you can install it from python website:
-	- macOS (https://www.python.org/ftp/python/3.11.9/python-3.11.9-macos11.pkg)
-	- Windows (https://www.python.org/ftp/python/3.11.9/python-3.11.9-amd64.exe)
+	- Python 3.11[macOS](https://www.python.org/ftp/python/3.11.9/python-3.11.9-macos11.pkg)
 	
-	For windows one recommend option is to use Anaconda which makes the process easier.
+	For windows one recommend option is to use Anaconda which makes the process easier, otherwise you can install directly python from this link 
+	- Python 3.11[windows](https://www.python.org/ftp/python/3.11.9/python-3.11.9-amd64.exe)
+		
 - **Anaconda**   
   📥 Download: [Anaconda.com](https://www.anaconda.com/download/success)  
   📖 Installation guide: [Anaconda Installation Instructions](https://www.anaconda.com/docs/getting-started/anaconda/install#macos-linux-installation)
